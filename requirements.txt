@@ -1,0 +1,11 @@
+pandas
+polars
+scikit-learn
+numpy
+matplotlib
+seaborn
+plotly
+jupyterlab
+tensorflow
+keras
+dotenv
